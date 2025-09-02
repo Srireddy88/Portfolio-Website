@@ -77,4 +77,14 @@ Example policy to allow CloudFront access:
 ```
 https://d1nj818o8h6bw.cloudfront.net/
 ```
+<img width="1920" height="898" alt="Screenshot 2025-09-02 103245" src="https://github.com/user-attachments/assets/3d6399da-8dfb-40a9-89e6-754316d7fedb" />
 
+<img width="1920" height="895" alt="Screenshot 2025-09-02 103313" src="https://github.com/user-attachments/assets/f9634b71-a8c6-4ec0-96d2-eb38d2a288eb" />
+
+<img width="1920" height="864" alt="Screenshot 2025-09-02 103331" src="https://github.com/user-attachments/assets/bf58db2c-8804-4355-bade-005906341570" />
+
+<img width="1920" height="901" alt="Screenshot 2025-09-02 103343" src="https://github.com/user-attachments/assets/8c587b56-7e58-4c87-9f39-add316174633" />
+
+<img width="1361" height="894" alt="Screenshot 2025-09-02 103352" src="https://github.com/user-attachments/assets/cfcb8b8e-453b-426c-b593-d93a4f5355c1" />
+
+<img width="1920" height="892" alt="Screenshot 2025-09-02 103421" src="https://github.com/user-attachments/assets/9edb54d3-0e7a-4f3e-8562-fae29e33c028" />
